@@ -4,6 +4,8 @@
 <hr>
 <h3>For at køre programmet, kør Main class og følg guide</h3>
 <p>/mongoDBExercise/src/main/java/Main.java</p>
+
+<p><b>Shell version: <a href="https://github.com/bigstepdenmark/mongoDBExercise/blob/master/files/exerciseShellVersion/exercises.js">Se fil</a></b></p>
 <hr>
 
 <h3>How many Twitter users are in our database?</h3>
