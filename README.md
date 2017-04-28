@@ -2,6 +2,9 @@
 <p><b>Group:</b> Ismail Cam og Mazlum Dogan Sert</p>
 
 <hr>
+<h3>For at køre programmet, kør Main class og følg guide</h3>
+<p>/mongoDBExercise/src/main/java/Main.java</p>
+<hr>
 
 <h3>How many Twitter users are in our database?</h3>
 
